@@ -1,7 +1,7 @@
 # Day 12-GUVI
 
 > **Replicating a responsive layout using BootStrapCSS**  
-> [Source Image](./events-home-page.jpg)  
+> [Source Image](./event-home-page.jpg)  
 > [Source Code](./index.html)  
 > Explanation:
 >
